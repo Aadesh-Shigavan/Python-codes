@@ -1,0 +1,6 @@
+Num_proj = int(input("Enter Number of Projects"))
+print(Num_proj)
+proj1,proj2,proj3 = input("Name of Project ").split(',')
+print(proj1)
+print(proj2)
+print(proj3)
